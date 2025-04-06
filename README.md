@@ -1,1 +1,1 @@
-Refer to [app-release.apk](app-release.apk) for the APK file of our application.
+Refer to [app-release.rar](app-release.rar) for the APK file of our application.
