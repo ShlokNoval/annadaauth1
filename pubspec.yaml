@@ -1,0 +1,56 @@
+name: annadaauth1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  firebase_core: ^3.12.1
+  firebase_auth: ^5.4.2
+  google_sign_in: ^6.2.2
+  logger: ^2.5.0
+  dash_chat_2: ^0.0.21
+  flutter_gemini: ^2.0.5
+  image_picker: ^1.1.2
+  google_generative_ai: ^0.4.6
+  http: ^1.3.0
+  geolocator: ^13.0.2
+  shared_preferences: ^2.5.2
+  font_awesome_flutter: ^10.8.0
+  url_launcher: ^6.3.1
+  cloud_firestore: ^5.6.5
+  flutter_local_notifications: ^19.0.0
+  timezone: ^0.10.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/annadalogo.png
+    - assets/farmer.png
+    - assets/pm-kisan.png
+    - assets/pmfby.png
+    - assets/kcc.png
+    - assets/soil-health.png
+
+    - assets/enam.png
+    - assets/rkvy.png
+    - assets/pkvy.png
+    - assets/deds.png
+    - assets/pmsky.png
+
+    - assets/map_nearby_market.png
+    - assets/map_ngos.png
+    - assets/map_fertilizer_shops.png

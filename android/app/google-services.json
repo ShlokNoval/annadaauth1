@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "602847414233",
+    "project_id": "annadaauth1",
+    "storage_bucket": "annadaauth1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602847414233:android:0a45e35dd5611157673bc8",
+        "android_client_info": {
+          "package_name": "com.shlok.annadaauth1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602847414233-o5gvdqrnbk4ahqkhm35mrtam3ls1b048.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shlok.annadaauth1",
+            "certificate_hash": "b2de1790d7941f093c9158fd8d3432876bff0c07"
+          }
+        },
+        {
+          "client_id": "602847414233-rg50fnct4ne17g4dm1ifrh56ltkdt7pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWq7LwbNFJmsUB6vR3IjAaT15EWa0OEjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602847414233-rg50fnct4ne17g4dm1ifrh56ltkdt7pt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
